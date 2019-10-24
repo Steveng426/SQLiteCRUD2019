@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/iteFemale" android:title="Lista de Usuarios Mujeres"/>
+    <item android:id="@+id/iteMale" android:title="Lista de Usuarios Hombres"/>
+    <item android:id="@+id/iteAllUsers" android:title="Todos Los Usuarios"/>
+    <item android:id="@+id/iteAbout" android:title="Acera De"/>
+    <item android:id="@+id/iteLogout" android:title="Cerrar Sesion"/>
+</menu>
